@@ -1,8 +1,15 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,OAAO,CAAC,mHAAI;AGAZ,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,WAAW,EAAE,yBAAyB;CACzC;;AAED,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,KAAK;CAC1B",
     "sources": [
-        "main.scss"
+        "main.scss",
+        "_fonts.scss",
+        "_header.scss",
+        "_nav.scss",
+        "_content.scss",
+        "_footer.scss",
+        "_media.scss",
+        "_reset.scss"
     ],
     "names": [],
     "file": "main.css"
