@@ -9,7 +9,8 @@
         "_content.scss",
         "_footer.scss",
         "_media.scss",
-        "_reset.scss"
+        "_reset.scss",
+        "_commons.scss"
     ],
     "names": [],
     "file": "main.css"
