@@ -1,17 +1,1 @@
-{
-    "version": 3,
-    "mappings": "ACAA,OAAO,CAAC,mHAAI;AEAZ,AACI,GADD,CACC,GAAG,CAAA;EACC,KAAK,EAAE,IAAI;CACd;;ACHL,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,WAAW,EAAE,yBAAyB;CACzC",
-    "sources": [
-        "main.scss",
-        "_fonts.scss",
-        "_header.scss",
-        "_nav.scss",
-        "_content.scss",
-        "_footer.scss",
-        "_media.scss",
-        "_reset.scss",
-        "_commons.scss"
-    ],
-    "names": [],
-    "file": "main.css"
-}
+{"version":3,"sources":["_fonts.scss","_nav.scss","main.css","_content.scss"],"names":[],"mappings":"AAAQ,2HAAA;ACCJ;EACI,WAAA;ACCR;;ACHA;EACI,SAAA;EACA,UAAA;EACA,sCAAA;ADMJ","file":"main.css"}
