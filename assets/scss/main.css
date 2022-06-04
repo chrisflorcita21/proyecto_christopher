@@ -7,4 +7,8 @@ nav img {
   margin: 0;
   padding: 0;
   font-family: "Roboto Flex", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
 }/*# sourceMappingURL=main.css.map */
